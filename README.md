@@ -153,12 +153,6 @@ For production, ensure you:
 
 This project is licensed under the MIT License. See the `LICENSE.md` file for more details.
 
-## Contact
-
-For any inquiries or support:
-
-- Email: support@masterchefapp.com
-- GitHub: [niral-nadisara](https://github.com/niral-nadisara)
 
 ---
 
